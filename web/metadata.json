@@ -1,0 +1,7 @@
+{
+  "name": "rafeniq",
+  "description": "rafeniq SMM Panel - Premium social media services in Iraq. Followers, likes, and views with Iraqi Dinar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
